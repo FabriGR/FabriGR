@@ -1,4 +1,4 @@
-# Hola! 😁
+# Hola!   👨‍💻 🏊
 - Me llamo Fabricio Gutierrez.
 - Estudiante de ingenieria de sistemas de la [Universidad de Lima](https://www.ulima.edu.pe/).
 - Big Data Engineer
