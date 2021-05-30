@@ -48,8 +48,7 @@ ___
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-   ![bigdata-visualization](https://user-images.githubusercontent.com/78441105/120122735-35eaa480-c170-11eb-9249-b8723018bee0.gif)
-
+   ![oFTHu7E](https://user-images.githubusercontent.com/78441105/120122885-451e2200-c171-11eb-90b9-07c33086f53b.gif)
 
 
 &nbsp;
