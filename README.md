@@ -47,7 +47,9 @@ ___
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   ![18140-cloud-storage](https://user-images.githubusercontent.com/78441105/120122660-b8269900-c16f-11eb-8295-d2d088562a3a.gif)
+
+   ![bigdata-visualization](https://user-images.githubusercontent.com/78441105/120122735-35eaa480-c170-11eb-9249-b8723018bee0.gif)
+
 
 
 &nbsp;
